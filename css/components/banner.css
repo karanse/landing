@@ -2,11 +2,7 @@
   background-size: cover;
   background-position: center;
   padding: 200px 0;
-}
-
-.container {
-  width: 900px;
-  margin: auto;
+  position: relative;
 }
 
 .banner h1 {
@@ -26,7 +22,7 @@
   border-radius: 50px;
   color: white;
   position:absolute;
-  top: 45%;
+  top: 65%;
   left: 40%;
 
 
